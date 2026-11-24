@@ -1,18 +1,27 @@
 document.addEventListener('DOMContentLoaded', () => {
   const toggleBtn = document.getElementById('mobile-toggle');
   const mobileMenu = document.getElementById('mobile-menu');
+  const iconOpen = document.getElementById('toggle-icon-open');
+  const iconClose = document.getElementById('toggle-icon-close');
 
   if (toggleBtn && mobileMenu) {
+    const updateIcons = (isOpen) => {
+      if (iconOpen && iconClose) {
+        iconOpen.style.display = isOpen ? 'none' : 'block';
+        iconClose.style.display = isOpen ? 'block' : 'none';
+      }
+    };
+
     toggleBtn.addEventListener('click', () => {
-      mobileMenu.classList.toggle('open');
-      toggleBtn.textContent = mobileMenu.classList.contains('open') ? '✕' : '☰';
+      const isOpen = mobileMenu.classList.toggle('open');
+      updateIcons(isOpen);
     });
 
     const menuLinks = mobileMenu.querySelectorAll('a');
     menuLinks.forEach(link => {
       link.addEventListener('click', () => {
         mobileMenu.classList.remove('open');
-        toggleBtn.textContent = '☰';
+        updateIcons(false);
       });
     });
   }
