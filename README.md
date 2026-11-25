@@ -1,30 +1,51 @@
 # Goitsimodimo Malesela Marobela — Personal Portfolio
 
-A fast, static personal portfolio and engineering showcase for **Goitsimodimo Malesela Marobela**, Junior Software & AI Engineer at **Lesira-Teq** and Computer Science student at **Tshwane University of Technology (TUT)**.
+A fast, static personal portfolio and engineering showcase for **Goitsimodimo Malesela Marobela**, Computer Science student at **Tshwane University of Technology (TUT)**, Freelance Software Developer, and Network Technology Entrepreneur.
 
-Styled with **Apple's light-mode design system** (pure `#fbfbfd` off-white canvas, frosted glassmorphism blur, solid jet-black typography, and zero gradient text).
 
 ---
 
 ## Engineering Profile
 
-- **Role**: Junior Software Engineer, AI Engineer & Computer Science Student (TUT, class of 2028)
-- **Current Industry Role**: Junior Software & AI Engineer at **Lesira-Teq** (Centralized ERP Architecture, smart metering telemetry pipelines, relational database optimization)
-- **AI Engineering & Autonomous Systems**: Local LLM Inference, Model Context Protocol (MCP) Tooling, Google Antigravity (AGY) Autonomous Agents, Multi-Agent Swarms, Telemetry Anomaly Detection
-- **Defensive AppSec**: SOC Level 1 (L1) Certified (TryHackMe), Microsoft Applied Skills, OWASP Top 10, zero-trust backend architecture
-- **Hackathons**: Stripe Johannesburg Launch, Monkey & River x Momentum, GreyCode (2025 & 2026), UNIVEN x CSIR CyberSecureTech, Huawei ICT Competition (Computing Track)
+- **Role**: Computer Science Student (TUT, class of 2028), Freelance Software Developer & Network Technology Entrepreneur
+- **Core Engineering Philosophy**: **Problem -> Solution -> Best-Fit Tools**. Uncovering real-world user friction or hardware bottlenecks first, designing resilient system architectures, and selecting the optimal technical toolchain for execution.
 - **Location**: Pretoria, Gauteng, South Africa
-- **Contacts**: `065 549 6233` | `078 767 7126` | `goitsimarobela@gmail.com`
+- **Contacts**: `065 549 6233` / `078 767 7126` | `goitsimarobela@gmail.com`
 - **GitHub**: [github.com/goitsi101](https://github.com/goitsi101)
 
 ---
 
-## Tech Stack & Architecture
+## Featured Initiatives & Projects
 
-- **HTML5**: Semantic, accessible markup for optimal SEO and fast rendering.
-- **CSS3**: Modern layout (Flexbox & CSS Grid) with Apple-grade frosted glassmorphism (`backdrop-filter: blur(28px)`), inner bevel reflections, solid typography, and custom light scrollbars.
-- **Vanilla JavaScript**: Lightweight client-side script handling mobile navigation drawer, one-click copy triggers with toast feedback, and anti-spam mailto form submission.
-- **Zero Dependencies**: No npm packages, no build runners, no Node.js server requirements.
+1. **Contact-Free Residence Registration System (Lead Developer)**
+   - Desktop and web prototype application developed in Java to manage and register residential occupants securely.
+   - Eliminated physical contact requirements completely through automated logging protocols and an optimized tracking system.
+2. **Smart Stove Automation Unit (Systems Integration Project)**
+   - Computer engineering hardware-software prototype engineered to auto-terminate stove power when left unattended.
+   - Mitigated domestic safety risks using rapid-response sensory input logic and robust systems analysis.
+3. **Preference-Based Vehicle Matcher (Full-Stack Web Application)**
+   - Interactive web portal that dynamically matches buyers with premium vehicle listings based on user constraints.
+   - Designed a single-button discovery pipeline with built-in vendor verification and secure data handling.
+4. **Network Technology Venture (Founder & Initiative)**
+   - Strategic rollout of a private network infrastructure start-up focusing on secure deployment, hardware diagnostics, and reliable connectivity.
+
+---
+
+## Technical Skills
+
+- **Core Software Engineering**: Java Programming, Advanced Object-Oriented Programming (OOP), Python Scripting, SDLC
+- **Systems & Networks**: Windows Server Deployment, Linux Configuration, Hardware Diagnostics, Network Troubleshooting
+- **Databases & Tools**: SQL Database Design, Relational Optimization, Strict Data Validation, Git/GitHub Version Control
+- **Cybersecurity Fundamentals**: Cryptography Architecture, Access Control Lists (ACLs), System Log Analysis, OWASP Guidelines
+
+---
+
+## Professional Experience & Education
+
+- **Freelance Software Developer & Network Entrepreneur** (Independent) • Jan 2024 – Present
+- **Collaborative Systems Developer** • TUT Faculty Hackathons • Temporary
+- **Tshwane University of Technology (TUT)**: Diploma in Computer Science • In Progress (Expected: May 2028)
+  - Core Modules: Advanced OOP, Database Systems, System Architecture, Data Structures, Information Security, Operating Systems
 
 ---
 
